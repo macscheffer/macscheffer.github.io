@@ -17,3 +17,4 @@ I'm a data scientist from Maryland. I am currently a CFA Level 3 Candidate and a
 ### Contact
 - [Email](mailto:macscheffer@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/macscheffer/)
+- [Twitter](https://twitter.com/MacScheffer)
