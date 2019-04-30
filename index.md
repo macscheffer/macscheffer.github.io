@@ -14,8 +14,8 @@ I'm a data scientist from Maryland. I am currently a CFA Level 3 Candidate and a
 - [Python Notebook](https://github.com/macscheffer/DS-Unit-1-Sprint-5-Data-Storytelling-Blog-Post/blob/master/nfl_play_calling_article.ipynb)
 
 #### Twitoff
-*Compare Users & Hypothetical Tweets
-*Productization of Models
+*Compare Users & Hypothetical Tweets*
+*Productization of NLP Model*
 - [WebPage](https://twitoff-mac.herokuapp.com/)
 
 
