@@ -20,8 +20,10 @@ I'm a data scientist from Maryland.
 - [WebPage](https://twitoff-mac.herokuapp.com/)
 
 #### Kaggle Competitions
-*Kaggle Competitions from class.
-- [WebPage](https://www.kaggle.com/c/ds2-tree-ensembles/leaderboard)
+*Kaggle Competitions from class.*
+- [Bank Marketing](https://www.kaggle.com/c/ds2-tree-ensembles/leaderboard)
+- [Waterpipe Prediction](https://www.kaggle.com/c/ds2-model-validation/leaderboard)
+- [Loan Evaluation](https://www.kaggle.com/c/ds2-tree-ensembles/leaderboard)
 
 ### Contact
 - [Email](mailto:macscheffer@gmail.com)
