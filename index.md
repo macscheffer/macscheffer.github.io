@@ -18,6 +18,10 @@ I'm a data scientist from Maryland.
 *Productization of NLP Model*
 - [WebPage](https://twitoff-mac.herokuapp.com/)
 
+#### Kaggle Competitions
+
+*Kaggle Competitions from class.
+- [webpage](https://www.kaggle.com/c/ds2-tree-ensembles/leaderboard)
 
 ### Contact
 - [Email](mailto:macscheffer@gmail.com)
